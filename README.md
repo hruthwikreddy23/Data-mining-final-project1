@@ -1,6 +1,3 @@
-# Data-mining-final-project1
-Final project for CSCE-566: Graph Representation Learning and Node Classification
-
 # Data Mining Final Project – Graph Representation Learning & Node Classification  
 **Course:** CSCE-566 (Fall 2025)  
 **Instructor:** Dr. Min Shi  
