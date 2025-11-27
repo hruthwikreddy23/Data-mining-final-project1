@@ -2,7 +2,7 @@
 **Course:** CSCE-566 (Fall 2025)  
 **Instructor:** Dr. Min Shi  
 
-This repository contains my complete implementation and analysis for **Problem 4: Graph Representation Learning and Node Classification**.  
+This repository contains my complete implementation and analysis for **Problem: Graph Representation Learning and Node Classification**.  
 The goal is to learn node embeddings for citation networks and evaluate their performance on classification tasks using two benchmark methods:  
 **DeepWalk** and **Graph Convolutional Networks (GCN)**.
 
